@@ -6,4 +6,3 @@ This repo will consist in three branches
   2. Universe
   3. Everything
   
-Each one with particular Python, Data Science and Machine Learning Projects
